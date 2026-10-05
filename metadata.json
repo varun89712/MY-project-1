@@ -1,0 +1,6 @@
+{
+  "name": "GMU ACM Student Chapter",
+  "description": "ACM Student Chapter at GM University - Empowering innovation through computing excellence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
